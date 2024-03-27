@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<twitterSites>
+    <site>
+        <name>Twitter</name>
+        <handle>X</handle>
+        <followers>1000000</followers>
+    </site>
+    <site>
+        <name>Google</name>
+        <handle>@Google</handle>
+        <followers>5000000</followers>
+    </site>
+    <site>
+        <name>Microsoft</name>
+        <handle>@Microsoft</handle>
+        <followers>8000000</followers>
+    </site>
+</twitterSites>
